@@ -9,7 +9,7 @@ Done in variety of languages
 ### Languages
 
 | Day | Language | --- | Day | Language |
-|:----|---------:|:---:|:----|---------:|
+|----:|:--------:|:---:|----:|:--------:|
 |1|Python||14||
 |2|||15||
 |3|||16||
