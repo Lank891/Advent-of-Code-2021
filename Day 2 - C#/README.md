@@ -1,0 +1,1 @@
+# [Day 2](https://adventofcode.com/2021/day/2) in [C# 10 (.NET Core 6.0)](https://docs.microsoft.com/pl-pl/dotnet/core/whats-new/dotnet-6)
