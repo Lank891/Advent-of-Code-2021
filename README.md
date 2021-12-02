@@ -25,3 +25,5 @@ Done in variety of languages
 |13||
 
 ![](https://i.redd.it/nx0xene4l1281.png)
+###### [Image source: Reddit](https://www.reddit.com/r/Padoru/comments/r322tw/viego_padoru_league_of_legends/)
+###### [Matching repository](https://github.com/Xerisu/Advent-of-Code)
