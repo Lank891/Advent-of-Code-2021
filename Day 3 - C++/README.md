@@ -1,0 +1,1 @@
+# [Day 3](https://adventofcode.com/2021/day/3) in [C++](https://en.cppreference.com/w/cpp)
