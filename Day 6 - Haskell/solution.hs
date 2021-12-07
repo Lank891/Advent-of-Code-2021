@@ -42,7 +42,7 @@ main = do
     contents <- hGetContents handle
     let simulation = map sum $ performInfiniteCycles $ countIntsInString [0..maxDay] contents
     putStrLn "Part 1: "
-    print $ last $ take (lastDayPart1 + 1) simulation
+    putStrLn $ last $ take (lastDayPart1 + 1) simulation
     putStrLn "Part 2: "
-    print $ last $ take (lastDayPart2 + 1) simulation
+    putStrLn $ last $ take (lastDayPart2 + 1) simulation
     hClose handle
