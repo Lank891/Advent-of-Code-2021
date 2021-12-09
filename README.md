@@ -2,9 +2,9 @@
 Done in variety of languages
 
 ### Progress
-![](https://img.shields.io/badge/day%20📅-8-blue)
-![](https://img.shields.io/badge/stars%20⭐-16-yellow)
-![](https://img.shields.io/badge/days%20completed-8-red)
+![](https://img.shields.io/badge/day%20📅-9-blue)
+![](https://img.shields.io/badge/stars%20⭐-18-yellow)
+![](https://img.shields.io/badge/days%20completed-9-red)
 
 ### Languages
 
@@ -18,7 +18,7 @@ Done in variety of languages
 |6|Haskell||19||
 |7|R||20||
 |8|Python||21||
-|9|||22||
+|9|Processing||22||
 |10|||23||
 |11|||24||
 |12|||25||
