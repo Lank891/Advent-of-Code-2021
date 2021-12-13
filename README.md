@@ -2,9 +2,9 @@
 Done in variety of languages
 
 ### Progress
-![](https://img.shields.io/badge/day%20📅-12-blue)
-![](https://img.shields.io/badge/stars%20⭐-22-yellow)
-![](https://img.shields.io/badge/days%20completed-11-red)
+![](https://img.shields.io/badge/day%20📅-13-blue)
+![](https://img.shields.io/badge/stars%20⭐-24-yellow)
+![](https://img.shields.io/badge/days%20completed-12-red)
 
 ### Languages
 
@@ -22,7 +22,7 @@ Done in variety of languages
 |10|Java||23||
 |11|C||24||
 |12|||25||
-|13||
+|13|Ruby|
 
 ![](https://i.redd.it/nx0xene4l1281.png)
 
