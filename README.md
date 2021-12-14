@@ -2,15 +2,15 @@
 Done in variety of languages
 
 ### Progress
-![](https://img.shields.io/badge/day%20📅-13-blue)
-![](https://img.shields.io/badge/stars%20⭐-24-yellow)
-![](https://img.shields.io/badge/days%20completed-12-red)
+![](https://img.shields.io/badge/day%20📅-14-blue)
+![](https://img.shields.io/badge/stars%20⭐-26-yellow)
+![](https://img.shields.io/badge/days%20completed-13-red)
 
 ### Languages
 
 | Day | Language | --- | Day | Language |
 |----:|:--------:|:---:|----:|:--------:|
-|1|Python||14||
+|1|Python||14|Go|
 |2|C# (.NET Core 6.0)||15||
 |3|C++||16||
 |4|TypeScript||17||
