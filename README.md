@@ -2,9 +2,13 @@
 Done in variety of languages
 
 ### Progress
-![](https://img.shields.io/badge/day%20📅-14-blue)
-![](https://img.shields.io/badge/stars%20⭐-26-yellow)
-![](https://img.shields.io/badge/days%20completed-13-red)
+![](https://img.shields.io/badge/day%20📅-15-blue)
+![](https://img.shields.io/badge/stars%20⭐-28-yellow)
+![](https://img.shields.io/badge/days%20completed-14-red)
+
+### Notes
+* In all programs input file must be provided in the source code (usually somewhere at the top)
+* Additioal input that has to be provided in the code is stated in readme for given day
 
 ### Languages
 
@@ -21,7 +25,7 @@ Done in variety of languages
 |9|Processing||22||
 |10|Java||23||
 |11|C||24||
-|12|||25||
+|12|Rust||25||
 |13|Ruby|
 
 ![](https://i.redd.it/nx0xene4l1281.png)
