@@ -2,11 +2,11 @@
 Done in variety of languages
 
 ### Progress
-![](https://img.shields.io/badge/days%20completed%20📅-14-blue)
+![](https://img.shields.io/badge/days%20completed%20📅-15-blue)
 
-![](https://img.shields.io/badge/stars%20⭐-28-yellow)
+![](https://img.shields.io/badge/stars%20⭐-30-yellow)
 
-![](https://img.shields.io/badge/languages%20💬-13-red)
+![](https://img.shields.io/badge/languages%20💬-14-red)
 
 ### Notes
 * In all programs input file must be provided in the source code (usually somewhere at the top)
@@ -17,7 +17,7 @@ Done in variety of languages
 | Day | Language | --- | Day | Language |
 |----:|:--------:|:---:|----:|:--------:|
 |1|Python||14|Go|
-|2|C# (.NET Core 6.0)||15||
+|2|C# (.NET Core 6.0)||15|Scala|
 |3|C++||16||
 |4|TypeScript||17||
 |5|Kotlin||18||
