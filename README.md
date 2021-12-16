@@ -2,9 +2,11 @@
 Done in variety of languages
 
 ### Progress
-![](https://img.shields.io/badge/day%20📅-15-blue)
+![](https://img.shields.io/badge/days%20completed%20📅-14-blue)
+
 ![](https://img.shields.io/badge/stars%20⭐-28-yellow)
-![](https://img.shields.io/badge/days%20completed-14-red)
+
+![](https://img.shields.io/badge/languages%20💬-13-red)
 
 ### Notes
 * In all programs input file must be provided in the source code (usually somewhere at the top)
