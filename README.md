@@ -2,11 +2,11 @@
 Done in variety of languages
 
 ### Progress
-![](https://img.shields.io/badge/days%20completed%20📅-17-blue)
+![](https://img.shields.io/badge/days%20completed%20📅-18-blue)
 
-![](https://img.shields.io/badge/stars%20⭐-34-yellow)
+![](https://img.shields.io/badge/stars%20⭐-36-yellow)
 
-![](https://img.shields.io/badge/languages%20💬-15-red)
+![](https://img.shields.io/badge/languages%20💬-16-red)
 
 ### Notes
 * In all programs input file must be provided in the source code (usually somewhere at the top)
@@ -22,7 +22,7 @@ Done in variety of languages
 |4|TypeScript||17|JavaScript|
 |5|Kotlin||18||
 |6|Haskell||19||
-|7|R||20||
+|7|R||20|Dart|
 |8|Python||21||
 |9|Processing||22||
 |10|Java||23||
