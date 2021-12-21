@@ -2,9 +2,9 @@
 Done in variety of languages
 
 ### Progress
-![](https://img.shields.io/badge/days%20completed%20📅-19-blue)
+![](https://img.shields.io/badge/days%20completed%20📅-20-blue)
 
-![](https://img.shields.io/badge/stars%20⭐-38-yellow)
+![](https://img.shields.io/badge/stars%20⭐-40-yellow)
 
 ![](https://img.shields.io/badge/languages%20💬-17-red)
 
@@ -20,7 +20,7 @@ Done in variety of languages
 |2|C# (.NET Core 6.0)||15|Scala|
 |3|C++||16|Scala|
 |4|TypeScript||17|JavaScript|
-|5|Kotlin||18||
+|5|Kotlin||18|TypeScript|
 |6|Haskell||19||
 |7|R||20|Dart|
 |8|Python||21|CoffeeScript|
