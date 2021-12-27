@@ -1,5 +1,7 @@
 # [Advent of Code 2021](https://adventofcode.com/2021/about)
-Done in variety of languages
+Done in variety of languages.
+
+I used half of them for the first time (maybe excluding small 'hello-world'ish programs) and for some reason i did not think that later in the month tasks will be harder and so I coded first tasks with languages I am comfortable with - because of that I did harder tasks again using them and did not finished using 25 different languages 😔 
 
 ### Progress
 ![](https://img.shields.io/badge/days%20completed%20📅-20-blue)
